@@ -3,6 +3,6 @@ title Eresbos Reg
 color f
 cls
 :a
-node bot.js
+node eresbos.js
 goto a
 pause
