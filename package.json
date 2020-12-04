@@ -1,0 +1,16 @@
+{
+  "name": "eresbos-register",
+  "version": "20.12.4",
+  "main": "eresbos.js",
+  "scripts": {
+    "start": "node eresbos.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "engines": {
+    "node": "15.x"
+  },
+  "license": "MIT",
+  "keywords": ["eresbos", "register", "bot"]
+}

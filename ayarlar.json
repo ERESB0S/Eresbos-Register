@@ -1,0 +1,21 @@
+{
+    "prefix": ".",
+    "sahip": "239330400223232000",
+    "durum": "❤️ Eresbos",
+    "voiceC": "SESE_BAGLANMA_KANAL_ID",
+    "tag": "• ",
+    "tırnak": " | ",
+    "reg": {
+        "sohbet": "SOHBET_KANAL_ID",
+        "log-e": "ERKEK_KAYIT_LOG_ID",
+        "log-k": "KIZ_KAYIT_LOG_ID"
+    },
+    "userjoin": {
+        "newacc": "• Yeni Hesap",
+        "oldacc": "• İsim | Yaş",
+        "unreg": "KAYITSIZ_ROL_ID",
+        "prison": "JAIL_ROL_ID",
+        "unregchat": "UNREGISTER_CHAT_KANAL_ID",
+        "newaccchat": "YENI_HESAP_LOG_KANAL_ID"
+    }
+}
