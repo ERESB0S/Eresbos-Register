@@ -6,7 +6,7 @@
 
 - [🛠 Gerekenler](#-gerekenler)
 - [📩 Kurulum](#-kurulum)
-- [🙏 Teşekkürler](#-tesekkurler)
+- [🙏 Teşekkürler](#-teşekkürler)
 
 #### 🛠 Gerekenler
 
