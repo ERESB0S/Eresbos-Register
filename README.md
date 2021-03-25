@@ -1,6 +1,6 @@
 ## Eresbos Register bot
 
-Öncelikle herkese merhaba 👋. Paylaştığım bu projeyi **Kendi Adıma** paylaşıyorum. İndirip dilediğiniz gibi kullanabilirsiniz. Projeyi her hangi bir ücretli satım veya kendi yapmış gibi gösterme durumunda gerekli işlemler başlatılacaktır.
+Öncelikle herkese merhaba 👋. Paylaştığım bu projeyi paylaşıyorum. İndirip dilediğiniz gibi kullanabilirsiniz. Projeyi her hangi bir ücretli satım veya kendi yapmış gibi gösterme durumunda gerekli işlemler başlatılacaktır.
 
 ### Kurulum Aşamaları:
 
