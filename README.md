@@ -1,6 +1,6 @@
 ## Eresbos Register bot
 
-Öncelikle herkese merhaba 👋. Paylaştığım bu projeyi paylaşıyorum. İndirip dilediğiniz gibi kullanabilirsiniz. Projeyi her hangi bir ücretli satım veya kendi yapmış gibi gösterme durumunda gerekli işlemler başlatılacaktır.
+Öncelikle herkese merhaba 👋. Hazırlamış olduğum bu register botu projesini paylaşıyorum. İndirip dilediğiniz gibi kullanabilirsiniz. Projeyi her hangi bir ücretli satım veya kendi yapmış gibi gösterme durumunda gerekli işlemler başlatılacaktır.
 
 ### Kurulum Aşamaları:
 
@@ -20,4 +20,4 @@
 
 #### 🙏 Teşekkürler
 
-Projemi kullanıp bana destek olan herkese teşekkür ederim. Bana [**Eresbos#1000**](https://discord.com/users/239330400223232000) isimli hesap üzerinden ulaşabilirsiniz.
+Projemi kullanıp bana destek olan herkese teşekkür ederim. Bana [**Eresbos#1914**](https://discord.com/users/239330400223232000) isimli hesap üzerinden ulaşabilirsiniz.
