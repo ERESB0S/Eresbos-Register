@@ -14,7 +14,7 @@ exports.run = (client, message, args) => {
     if (isimgecmisi) {
         var sayı = 0
         sayı = isimgecmisi.lenght
-        for(let i = 0;i<isimgecmisi.length;i++){
+        for(let i = 0;i<sayı;i++){
             liste+=`\n\`${i+1}.\` ${isimgecmisi[i]}`
         }
     } else {
