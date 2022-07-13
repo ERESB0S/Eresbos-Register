@@ -20,4 +20,4 @@
 
 #### 🙏 Teşekkürler
 
-Projemi kullanıp bana destek olan herkese teşekkür ederim. Bana [**Eresbos#0001**](https://discord.com/users/907246062459318323) isimli hesap üzerinden veya [**Discord Sunucumdan**](https://discord.gg/ZS2TKFFadZ) ulaşabilirsiniz.
+Projemi kullanıp bana destek olan herkese teşekkür ederim. Bana [**Eresbos#0001**](https://discord.com/users/350976460313329665) isimli hesap üzerinden veya [**Discord Sunucumdan**](https://discord.gg/ZS2TKFFadZ) ulaşabilirsiniz.
